@@ -1,0 +1,123 @@
+body{
+    
+
+    background-color:rgb(232, 231, 231)
+}
+ul  {
+    display: flex;
+    gap: 12px;
+    margin-right: 4%;
+    text-transform: uppercase;
+    
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(244, 207, 207);
+    position: fixed;
+    margin-top: -6%;
+    width: 99%;
+    padding-left: 12px;
+    padding-right: 16px;
+}
+.Hel  {
+    margin-left: 4%;
+}
+button{
+    color:white;
+    background-color: red;
+    border-radius: 5px;
+    padding: 12px;
+}
+.btn{
+display: flex;
+gap: 12px;
+}
+.hel span ::first-letter {
+    color: red;
+    border-radius: 50%;
+    
+}
+.grand{
+    display: flex;justify-content: space-between;
+    margin-top: 6%;
+    margin-left: 3%;
+    margin-right: 3%;
+}
+.btn2{
+    background-color: white;
+}
+.intro strong{
+    font-size: 50px;
+    margin-top: 3px;
+}
+.btn2 {
+    border:solid 3px red;
+    width: 90px;
+    padding-top: 12px;
+    background-color:white;
+    text-decoration: none;
+        
+
+}
+.part2{
+    font-size: 50px;
+    margin-left: 30%;
+}
+fieldset{
+width: 25%;
+border: solid red;
+margin-left: 4.5%;
+padding-top: 10%;
+}
+.sec{
+    display: flex;
+    gap: -1px;
+}
+.txt{
+    font-size: 50px;
+    margin-left: 25%;
+}
+.eyes{
+    display: flex;
+}
+.div4{
+    font-size: 50px;
+    margin-left: 25%;
+}
+.img4{
+    margin-left: 2%;
+    display: flex;
+    justify-content:space-between ;
+
+}
+.field{
+    display: flex;
+    justify-content: space-between;
+}
+.field1{
+margin-left: 3%;
+}
+.field4{
+    margin-right: 2%;
+}
+.bottom{
+    display: flex;justify-content: space-between;
+    margin-top: 2%;
+}
+.foot{
+    display: flex;justify-content: space-between;
+}
+hr{
+    width: 40px;
+    border: solid;
+    margin-top: 3%;
+}
+a{
+    text-decoration: none;
+    color: red;
+    
+}
+.bottom strong{
+    font-size: 30px;
+}
